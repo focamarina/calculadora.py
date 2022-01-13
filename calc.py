@@ -1,3 +1,5 @@
+import time
+
 n1 = float(input("Introduce tu primer numero: "))
 n2 = float(input("Introduce tu segundo numero: "))
 
@@ -32,6 +34,8 @@ while True:
         n1 = float(input("Introduce tu primer numero: "))
         n2 = float(input("Introduce tu segundo numero: "))
     elif option == 6:
+        print("Hasta pronto!")
+        time.sleep(5)
         break
     else:
         print("Opcion Incorrecta!")
