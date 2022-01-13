@@ -12,7 +12,7 @@ while True:
         3) Multiplicar los dos numeros
         4) Dividir los dos numeros
         5) Cambiar los numeros elegidos
-        6) Cancelar operacion
+        6) Cerrar Calculadora
     """)
     option = int(input("Introduzca el numero de la opcion a realizar: "))
 
