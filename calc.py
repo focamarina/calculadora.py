@@ -38,4 +38,5 @@ while True:
         time.sleep(5)
         break
     else:
+        print(" ")
         print("Opcion Incorrecta!")
